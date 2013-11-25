@@ -4318,7 +4318,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location filename="MainWindow.ui"/>
         <source>Mumble</source>
-        <translation type="unfinished"></translation>
+        <translation>Mumble</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="+4"/>
@@ -4351,7 +4351,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location line="-1"/>
         <source>Mumble is currently connected to a server. Do you want to Close or Minimize it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mumble 目前已經連線到伺服器了，您要關閉還是最小化?</translation>
     </message>
     <message>
         <location line="-190"/>
@@ -4400,7 +4400,7 @@ This field describes the size of an LCD device. The size is given either in pixe
         <location line="+2271"/>
         <source>&lt;center&gt;Not connected&lt;/center&gt;</source>
         <oldsource>Not connected</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;center&gt;未連線&lt;/center&gt;</translation>
     </message>
     <message>
         <location line="-1998"/>
@@ -4519,7 +4519,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location line="+544"/>
         <source>Connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>已連線。</translation>
     </message>
     <message>
         <location line="+159"/>
@@ -4530,7 +4530,7 @@ This field describes the size of an LCD device. The size is given either in pixe
         <location line="+153"/>
         <source>&lt;center&gt;Type message to channel &apos;%1&apos; here&lt;/center&gt;</source>
         <oldsource>Type message to channel &apos;%1&apos; here</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;center&gt;在此輸入傳給「%1」頻道的訊息&lt;/center&gt;</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -4644,7 +4644,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location line="+4"/>
         <source>&lt;h2&gt;Audio bandwidth&lt;/h2&gt;&lt;p&gt;Maximum %1 kbit/s&lt;br /&gt;Current %2 kbit/s&lt;br /&gt;Codec: %3&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h2&gt;音訊頻寬&lt;/h2&gt;&lt;p&gt;最大 %1 kbit/秒&lt;br /&gt;目前 %2 kbit/秒&lt;br /&gt;編碼器: %3&lt;/p&gt;</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -4776,7 +4776,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location line="+2"/>
         <source>Disconnected from server.</source>
-        <translation type="unfinished"></translation>
+        <translation>已從伺服器斷線。</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -4828,7 +4828,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>說明(&amp;H)</translation>
     </message>
     <message>
         <location/>
@@ -4843,7 +4843,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>&amp;Quit Mumble</source>
-        <translation type="unfinished"></translation>
+        <translation>離開 Mumble(&amp;Q)</translation>
     </message>
     <message>
         <location/>
@@ -4863,7 +4863,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>&amp;Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>連線(&amp;C)</translation>
     </message>
     <message>
         <location/>
@@ -4873,7 +4873,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>&amp;Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>斷線(&amp;D)</translation>
     </message>
     <message>
         <location/>
@@ -4903,7 +4903,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>&amp;Information</source>
-        <translation type="unfinished"></translation>
+        <translation>資訊(&amp;I)</translation>
     </message>
     <message>
         <location/>
@@ -5185,7 +5185,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>&amp;Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>設定(&amp;S)</translation>
     </message>
     <message>
         <location/>
@@ -5200,7 +5200,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>&amp;Audio Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>音訊精靈(&amp;A)</translation>
     </message>
     <message>
         <location/>
@@ -5230,7 +5230,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>&amp;About</source>
-        <translation type="unfinished"></translation>
+        <translation>關於(&amp;A)</translation>
     </message>
     <message>
         <location/>
@@ -5865,12 +5865,12 @@ Valid options are:
     <message>
         <location/>
         <source>S&amp;erver</source>
-        <translation type="unfinished"></translation>
+        <translation>伺服器(&amp;E)</translation>
     </message>
     <message>
         <location/>
         <source>&amp;Self</source>
-        <translation type="unfinished"></translation>
+        <translation>自己(&amp;S)</translation>
     </message>
     <message>
         <location/>
