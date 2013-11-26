@@ -4330,23 +4330,23 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location line="-2225"/>
         <source>&amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>視窗(&amp;W)</translation>
     </message>
     <message>
         <location line="+2"/>
         <location line="+135"/>
         <source>Minimize</source>
-        <translation type="unfinished"></translation>
+        <translation>最小化</translation>
     </message>
     <message>
         <location line="-135"/>
         <source>Ctrl+M</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+M</translation>
     </message>
     <message>
         <location line="+134"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>關閉</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -4451,7 +4451,7 @@ This field describes the size of an LCD device. The size is given either in pixe
         <location line="+14"/>
         <location line="+192"/>
         <source>Connecting to server %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>正在連線到伺服器 %1。</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -4655,7 +4655,7 @@ This field describes the size of an LCD device. The size is given either in pixe
         <location line="+4"/>
         <location line="+1330"/>
         <source>&amp;View Certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>檢視憑證(&amp;V)</translation>
     </message>
     <message>
         <location line="-1055"/>
@@ -4823,7 +4823,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location filename="MainWindow.ui"/>
         <source>C&amp;onfigure</source>
-        <translation type="unfinished"></translation>
+        <translation>組態(&amp;O)</translation>
     </message>
     <message>
         <location/>
@@ -4858,7 +4858,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Q</translation>
     </message>
     <message>
         <location/>
@@ -4908,7 +4908,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>Show information about the server connection</source>
-        <translation type="unfinished"></translation>
+        <translation>顯示關於伺服器連線的資訊</translation>
     </message>
     <message>
         <location/>
@@ -4953,7 +4953,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>新增(&amp;A)</translation>
     </message>
     <message>
         <location/>
@@ -4968,7 +4968,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>移除(&amp;R)</translation>
     </message>
     <message>
         <location/>
@@ -5068,7 +5068,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>編輯(&amp;E)</translation>
     </message>
     <message>
         <location/>
@@ -5275,7 +5275,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>Check for &amp;Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>檢查更新(&amp;U)</translation>
     </message>
     <message>
         <location/>
@@ -5466,7 +5466,7 @@ Otherwise abort and check your certificate and username.</source>
         <location line="-189"/>
         <location line="+48"/>
         <source>Welcome message: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>歡迎訊息: %1</translation>
     </message>
     <message>
         <location line="-15"/>
@@ -5790,7 +5790,7 @@ Valid options are:
     <message>
         <location line="+192"/>
         <source>Welcome to Mumble.</source>
-        <translation type="unfinished"></translation>
+        <translation>歡迎來到 Mumble。</translation>
     </message>
     <message>
         <location line="+73"/>
@@ -5825,12 +5825,12 @@ Valid options are:
     <message>
         <location/>
         <source>&amp;Certificate Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>憑證精靈(&amp;C)</translation>
     </message>
     <message>
         <location/>
         <source>&amp;Register</source>
-        <translation type="unfinished"></translation>
+        <translation>註冊(&amp;R)</translation>
     </message>
     <message>
         <location/>
@@ -5845,7 +5845,7 @@ Valid options are:
     <message>
         <location/>
         <source>&amp;Join Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>加入頻道(&amp;J)</translation>
     </message>
     <message>
         <location/>
@@ -5885,7 +5885,7 @@ Valid options are:
     <message>
         <location/>
         <source>R&amp;egister</source>
-        <translation type="unfinished"></translation>
+        <translation>註冊(&amp;E)</translation>
     </message>
     <message>
         <location/>
@@ -5945,7 +5945,7 @@ Valid options are:
     <message>
         <location/>
         <source>Ignore Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略訊息</translation>
     </message>
     <message>
         <location/>
