@@ -4253,7 +4253,7 @@ This field describes the size of an LCD device. The size is given either in pixe
         <location line="+2"/>
         <source>Push and hold this button to send voice.</source>
         <comment>Global Shortcut</comment>
-        <translation type="unfinished"></translation>
+        <translation>按住此按鍵以傳送語音。</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4265,7 +4265,7 @@ This field describes the size of an LCD device. The size is given either in pixe
         <location line="+3"/>
         <source>Reset Audio Processor</source>
         <comment>Global Shortcut</comment>
-        <translation type="unfinished"></translation>
+        <translation>重設音訊處理器</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -4283,7 +4283,7 @@ This field describes the size of an LCD device. The size is given either in pixe
         <location line="+3"/>
         <source>Join Channel</source>
         <comment>Global Shortcut</comment>
-        <translation type="unfinished"></translation>
+        <translation>加入頻道</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -4325,7 +4325,7 @@ This field describes the size of an LCD device. The size is given either in pixe
         <location line="+15"/>
         <location line="+2230"/>
         <source>Mumble -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mumble -- %1</translation>
     </message>
     <message>
         <location line="-2225"/>
@@ -4456,7 +4456,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location line="+10"/>
         <source>Reconnecting.</source>
-        <translation type="unfinished"></translation>
+        <translation>正在重新連線。</translation>
     </message>
     <message>
         <location line="+148"/>
@@ -4594,7 +4594,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location line="+688"/>
         <source>Change your comment</source>
-        <translation type="unfinished"></translation>
+        <translation>變更您的留言</translation>
     </message>
     <message>
         <location line="+105"/>
@@ -4741,7 +4741,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location line="+89"/>
         <source>About Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>關於 Qt</translation>
     </message>
     <message>
         <location line="+389"/>
@@ -4801,7 +4801,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location line="+5"/>
         <source>Wrong certificate or password</source>
-        <translation type="unfinished"></translation>
+        <translation>憑證或密碼錯誤</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4813,7 +4813,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location line="+7"/>
         <source>Wrong password</source>
-        <translation type="unfinished"></translation>
+        <translation>密碼錯誤</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4878,7 +4878,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>Disconnect from server</source>
-        <translation type="unfinished"></translation>
+        <translation>從伺服器斷線</translation>
     </message>
     <message>
         <location/>
@@ -4943,7 +4943,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>Send a Text Message</source>
-        <translation type="unfinished"></translation>
+        <translation>傳送文字訊息</translation>
     </message>
     <message>
         <location/>
@@ -5295,7 +5295,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>&amp;Change Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>變更留言(&amp;C)</translation>
     </message>
     <message>
         <location/>
@@ -5365,7 +5365,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>Registered &amp;Users</source>
-        <translation type="unfinished"></translation>
+        <translation>已註冊的使用者(&amp;U)</translation>
     </message>
     <message>
         <location/>
@@ -5471,7 +5471,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location line="-15"/>
         <source>Mumble: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mumble: %1</translation>
     </message>
     <message>
         <location line="+36"/>
@@ -5541,7 +5541,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location line="+39"/>
         <source>%1 connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 已連線。</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -5619,7 +5619,7 @@ Otherwise abort and check your certificate and username.</source>
         <location line="+1"/>
         <source>Server</source>
         <comment>message from</comment>
-        <translation type="unfinished"></translation>
+        <translation>伺服器</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -5815,7 +5815,7 @@ Valid options are:
     <message>
         <location/>
         <source>Send &amp;Message</source>
-        <translation type="unfinished"></translation>
+        <translation>傳送訊息(&amp;M)</translation>
     </message>
     <message>
         <location/>
@@ -5835,7 +5835,7 @@ Valid options are:
     <message>
         <location/>
         <source>Reset &amp;Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>重設留言(&amp;C)</translation>
     </message>
     <message>
         <location/>
@@ -5850,7 +5850,7 @@ Valid options are:
     <message>
         <location/>
         <source>View Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>檢視留言</translation>
     </message>
     <message>
         <location/>
@@ -5875,7 +5875,7 @@ Valid options are:
     <message>
         <location/>
         <source>Audio S&amp;tatistics</source>
-        <translation type="unfinished"></translation>
+        <translation>音訊統計(&amp;T)</translation>
     </message>
     <message>
         <location/>
@@ -5895,7 +5895,7 @@ Valid options are:
     <message>
         <location/>
         <source>Change &amp;Avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>變更大頭貼(&amp;A)</translation>
     </message>
     <message>
         <location/>
@@ -5905,7 +5905,7 @@ Valid options are:
     <message>
         <location/>
         <source>&amp;Remove Avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>移除大頭貼(&amp;R)</translation>
     </message>
     <message>
         <location/>
@@ -5925,7 +5925,7 @@ Valid options are:
     <message>
         <location/>
         <source>Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>錄音</translation>
     </message>
     <message>
         <location/>
