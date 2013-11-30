@@ -4307,13 +4307,13 @@ This field describes the size of an LCD device. The size is given either in pixe
         <location line="+3"/>
         <source>Volume Up (+10%)</source>
         <comment>Global Shortcut</comment>
-        <translation type="unfinished"></translation>
+        <translation>提高音量 (+10%)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Volume Down (-10%)</source>
         <comment>Global Shortcut</comment>
-        <translation type="unfinished"></translation>
+        <translation>降低音量 (-10%)</translation>
     </message>
     <message>
         <location filename="MainWindow.ui"/>
@@ -4405,7 +4405,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location line="-1998"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>清除</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -4461,12 +4461,12 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location line="+148"/>
         <source>&lt;p&gt;No build information or OS version available.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;無法取得建置資訊或作業系統版本。&lt;/p&gt;</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&lt;p&gt;%1 (%2)&lt;br /&gt;%3&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;%1 (%2)&lt;br /&gt;%3&lt;/p&gt;</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -4541,12 +4541,12 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location line="+105"/>
         <source>Choose image file</source>
-        <translation type="unfinished"></translation>
+        <translation>選擇影像檔案</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Images (*.png *.jpg *.jpeg *.svg)</source>
-        <translation type="unfinished"></translation>
+        <translation>影像 (*.png *.jpg *.jpeg *.svg)</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -4599,7 +4599,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location line="+105"/>
         <source>&lt;h2&gt;Version&lt;/h2&gt;&lt;p&gt;Protocol %1.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h2&gt;版本&lt;/h2&gt;&lt;p&gt;通訊協定 %1。&lt;/p&gt;</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -4609,7 +4609,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location line="+18"/>
         <source>UDP Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>UDP 統計</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -4624,22 +4624,22 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location line="+0"/>
         <source>Good</source>
-        <translation type="unfinished"></translation>
+        <translation>優良</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Late</source>
-        <translation type="unfinished"></translation>
+        <translation>延遲</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Lost</source>
-        <translation type="unfinished"></translation>
+        <translation>遺失</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Resync</source>
-        <translation type="unfinished"></translation>
+        <translation>重新同步</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -4649,7 +4649,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location line="+2"/>
         <source>Mumble Server Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Mumble 伺服器資訊</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -4674,7 +4674,7 @@ This field describes the size of an LCD device. The size is given either in pixe
         <location line="+4"/>
         <location line="+233"/>
         <source>To %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>給 %1: %2</translation>
     </message>
     <message>
         <location line="-316"/>
@@ -4781,7 +4781,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location line="+11"/>
         <source>Invalid username</source>
-        <translation type="unfinished"></translation>
+        <translation>無效的使用者名稱</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4833,7 +4833,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>Log</source>
-        <translation type="unfinished"></translation>
+        <translation>記錄</translation>
     </message>
     <message>
         <location/>
@@ -4928,7 +4928,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>&amp;Ban</source>
-        <translation type="unfinished"></translation>
+        <translation>封鎖(&amp;B)</translation>
     </message>
     <message>
         <location/>
@@ -4973,7 +4973,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>Remove channel</source>
-        <translation type="unfinished"></translation>
+        <translation>移除頻道</translation>
     </message>
     <message>
         <location/>
@@ -4993,12 +4993,12 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>&amp;Link</source>
-        <translation type="unfinished"></translation>
+        <translation>連結(&amp;L)</translation>
     </message>
     <message>
         <location/>
         <source>Link your channel to another channel</source>
-        <translation type="unfinished"></translation>
+        <translation>將您的頻道連結至另一個頻道</translation>
     </message>
     <message>
         <location/>
@@ -5080,7 +5080,7 @@ Otherwise abort and check your certificate and username.</source>
         <location/>
         <source>&amp;Unlink</source>
         <comment>Channel</comment>
-        <translation type="unfinished"></translation>
+        <translation>取消連結(&amp;U)</translation>
     </message>
     <message>
         <location/>
@@ -5165,7 +5165,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>Display audio statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>顯示音訊統計</translation>
     </message>
     <message>
         <location/>
@@ -5205,7 +5205,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>Start the audio configuration wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>開始音訊組態精靈</translation>
     </message>
     <message>
         <location/>
@@ -5235,7 +5235,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>Information about Mumble</source>
-        <translation type="unfinished"></translation>
+        <translation>關於 Mumble 的資訊</translation>
     </message>
     <message>
         <location/>
@@ -5250,7 +5250,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>Information about Speex</source>
-        <translation type="unfinished"></translation>
+        <translation>關於 Speex 的資訊</translation>
     </message>
     <message>
         <location/>
@@ -5265,7 +5265,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>Information about Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>關於 Qt 的資訊</translation>
     </message>
     <message>
         <location/>
@@ -5280,7 +5280,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>Check for new version of Mumble</source>
-        <translation type="unfinished"></translation>
+        <translation>檢查 Mumble 的新版本</translation>
     </message>
     <message>
         <location/>
@@ -5320,7 +5320,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>Add &amp;Friend</source>
-        <translation type="unfinished"></translation>
+        <translation>新增朋友(&amp;F)</translation>
     </message>
     <message>
         <location/>
@@ -5335,7 +5335,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>&amp;Remove Friend</source>
-        <translation type="unfinished"></translation>
+        <translation>移除朋友(&amp;R)</translation>
     </message>
     <message>
         <location/>
@@ -5370,7 +5370,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>Edit registered users list</source>
-        <translation type="unfinished"></translation>
+        <translation>編輯已註冊的使用者清單</translation>
     </message>
     <message>
         <location/>
@@ -5390,12 +5390,12 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>&amp;Minimal View</source>
-        <translation type="unfinished"></translation>
+        <translation>最小檢視(&amp;M)</translation>
     </message>
     <message>
         <location/>
         <source>Toggle minimal window modes</source>
-        <translation type="unfinished"></translation>
+        <translation>切換最小視窗模式</translation>
     </message>
     <message>
         <location/>
@@ -5516,12 +5516,12 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location line="+5"/>
         <source>Invalid username: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>無效的使用者名稱: %1。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Invalid username.</source>
-        <translation type="unfinished"></translation>
+        <translation>無效的使用者名稱。</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -5556,22 +5556,22 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location line="+11"/>
         <source>Recording started</source>
-        <translation type="unfinished"></translation>
+        <translation>已開始錄音</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Recording stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>已停止錄音</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>%1 started recording.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 已開始錄音。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 stopped recording.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 已停止錄音。</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -5612,7 +5612,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location line="+46"/>
         <source>%1 disconnected.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 已斷線。</translation>
     </message>
     <message>
         <location line="+92"/>
@@ -5629,12 +5629,12 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location line="+2"/>
         <source>(Channel) </source>
-        <translation type="unfinished"></translation>
+        <translation>(頻道) </translation>
     </message>
     <message>
         <location line="+3"/>
         <source>%2%1: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%2%1: %3</translation>
     </message>
     <message>
         <location line="+201"/>
