@@ -77,7 +77,7 @@
     <message>
         <location/>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>密碼</translation>
     </message>
     <message>
         <location/>
@@ -655,7 +655,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location filename="About.cpp" line="+40"/>
         <source>About Mumble</source>
-        <translation type="unfinished"></translation>
+        <translation>關於 Mumble</translation>
     </message>
     <message>
         <location line="+30"/>
@@ -665,7 +665,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location line="+10"/>
         <source>&amp;About Mumble</source>
-        <translation type="unfinished"></translation>
+        <translation>關於 Mumble(&amp;A)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -680,7 +680,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location line="+2"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>確定</translation>
     </message>
 </context>
 <context>
@@ -693,12 +693,12 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location/>
         <source>Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>介面</translation>
     </message>
     <message>
         <location/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>系統</translation>
     </message>
     <message>
         <location/>
@@ -2874,12 +2874,12 @@ It is &lt;b&gt;strongly&lt;/b&gt; recommended that you &lt;a href=&quot;http://m
     <message>
         <location filename="ConfigDialog.ui"/>
         <source>Mumble Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Mumble 組態</translation>
     </message>
     <message>
         <location/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>進階</translation>
     </message>
 </context>
 <context>
@@ -3187,7 +3187,7 @@ Label of the server. This is what the server will be named like in your server l
     <message>
         <location filename="CoreAudio.cpp" line="+87"/>
         <source>Default Device</source>
-        <translation type="unfinished"></translation>
+        <translation>預設裝置</translation>
     </message>
 </context>
 <context>
@@ -3620,7 +3620,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location filename="Log.cpp" line="+200"/>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>除錯</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3630,12 +3630,12 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location line="+1"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>警告</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>資訊</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4888,7 +4888,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>&amp;Ban lists</source>
-        <translation type="unfinished"></translation>
+        <translation>封鎖清單(&amp;B)</translation>
     </message>
     <message>
         <location/>
@@ -5820,7 +5820,7 @@ Valid options are:
     <message>
         <location/>
         <source>&amp;Unlink All</source>
-        <translation type="unfinished"></translation>
+        <translation>取消連結全部(&amp;U)</translation>
     </message>
     <message>
         <location/>
@@ -5915,12 +5915,12 @@ Valid options are:
     <message>
         <location/>
         <source>Icon Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>圖示工具列</translation>
     </message>
     <message>
         <location/>
         <source>Change your own comment</source>
-        <translation type="unfinished"></translation>
+        <translation>變更您自己的留言</translation>
     </message>
     <message>
         <location/>
