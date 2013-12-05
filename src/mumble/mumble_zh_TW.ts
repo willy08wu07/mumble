@@ -6,12 +6,12 @@
     <message>
         <location filename="ACLEditor.cpp" line="+105"/>
         <source>Deny</source>
-        <translation type="unfinished"></translation>
+        <translation>拒絕</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Allow</source>
-        <translation type="unfinished"></translation>
+        <translation>允許</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -26,7 +26,7 @@
     <message>
         <location line="-62"/>
         <source>Mumble - Add channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Mumble - 新增頻道</translation>
     </message>
     <message>
         <location line="+22"/>
@@ -62,7 +62,7 @@
     <message>
         <location/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <location/>
@@ -115,12 +115,12 @@ This value enables you to change the way mumble arranges the channels in the tre
     <message>
         <location/>
         <source>&amp;Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>群組(&amp;G)</translation>
     </message>
     <message>
         <location/>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>群組</translation>
     </message>
     <message>
         <location/>
@@ -397,7 +397,7 @@ Add a new group.</source>
     <message>
         <location/>
         <source>&amp;Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>屬性(&amp;P)</translation>
     </message>
     <message>
         <location/>
@@ -670,7 +670,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location line="+1"/>
         <source>&amp;License</source>
-        <translation type="unfinished"></translation>
+        <translation>授權(&amp;L)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -713,7 +713,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location/>
         <source>Device</source>
-        <translation type="unfinished"></translation>
+        <translation>裝置</translation>
     </message>
     <message>
         <location/>
@@ -848,12 +848,12 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location/>
         <source>Compression</source>
-        <translation type="unfinished"></translation>
+        <translation>壓縮</translation>
     </message>
     <message>
         <location/>
         <source>&amp;Quality</source>
-        <translation type="unfinished"></translation>
+        <translation>品質(&amp;Q)</translation>
     </message>
     <message>
         <location/>
@@ -888,7 +888,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location/>
         <source>Audio Processing</source>
-        <translation type="unfinished"></translation>
+        <translation>音訊處理</translation>
     </message>
     <message>
         <location/>
@@ -998,7 +998,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location/>
         <source>R&amp;eset</source>
-        <translation type="unfinished"></translation>
+        <translation>重設(&amp;E)</translation>
     </message>
     <message>
         <location/>
@@ -1013,7 +1013,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location/>
         <source>&amp;Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>預覽(&amp;P)</translation>
     </message>
     <message>
         <location/>
@@ -1083,7 +1083,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location/>
         <source>Idle action</source>
-        <translation type="unfinished"></translation>
+        <translation>閒置動作</translation>
     </message>
     <message>
         <location/>
@@ -1178,12 +1178,12 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location/>
         <source>Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>介面</translation>
     </message>
     <message>
         <location/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>系統</translation>
     </message>
     <message>
         <location/>
@@ -1199,7 +1199,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location/>
         <source>Device</source>
-        <translation type="unfinished"></translation>
+        <translation>裝置</translation>
     </message>
     <message>
         <location/>
@@ -6921,7 +6921,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location filename="PAAudio.cpp" line="+275"/>
         <source>Default Device</source>
-        <translation type="unfinished"></translation>
+        <translation>預設裝置</translation>
     </message>
 </context>
 <context>
@@ -7291,7 +7291,7 @@ An access token is a text string, which can be used as a password for very simpl
     <message>
         <location/>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>新增(&amp;A)</translation>
     </message>
     <message>
         <location/>
@@ -7301,7 +7301,7 @@ An access token is a text string, which can be used as a password for very simpl
     <message>
         <location/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>移除(&amp;R)</translation>
     </message>
 </context>
 <context>
@@ -7986,7 +7986,7 @@ Please contact your server administrator for further information.</source>
     <message>
         <location filename="WASAPI.cpp" line="+184"/>
         <source>Default Device</source>
-        <translation type="unfinished"></translation>
+        <translation>預設裝置</translation>
     </message>
 </context>
 <context>
