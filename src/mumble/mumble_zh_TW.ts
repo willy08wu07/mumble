@@ -2137,12 +2137,12 @@ Speak loudly, as when you are annoyed or excited. Decrease the volume in the sou
     <message>
         <location/>
         <source>&amp;Address</source>
-        <translation type="unfinished"></translation>
+        <translation>位址(&amp;A)</translation>
     </message>
     <message>
         <location/>
         <source>&amp;Mask</source>
-        <translation type="unfinished"></translation>
+        <translation>遮罩(&amp;M)</translation>
     </message>
     <message>
         <location/>
@@ -2152,7 +2152,7 @@ Speak loudly, as when you are annoyed or excited. Decrease the volume in the sou
     <message>
         <location/>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>開始</translation>
     </message>
     <message>
         <location/>
@@ -2162,7 +2162,7 @@ Speak loudly, as when you are annoyed or excited. Decrease the volume in the sou
     <message>
         <location/>
         <source>User</source>
-        <translation type="unfinished"></translation>
+        <translation>使用者</translation>
     </message>
     <message>
         <location/>
@@ -2283,7 +2283,7 @@ Speak loudly, as when you are annoyed or excited. Decrease the volume in the sou
     <message>
         <location line="+43"/>
         <source>Mumble User</source>
-        <translation type="unfinished"></translation>
+        <translation>Mumble 使用者</translation>
     </message>
     <message>
         <location filename="main.cpp" line="+454"/>
@@ -2296,12 +2296,12 @@ Speak loudly, as when you are annoyed or excited. Decrease the volume in the sou
     <message>
         <location filename="Cert.ui"/>
         <source>Certificate Management</source>
-        <translation type="unfinished"></translation>
+        <translation>憑證管理</translation>
     </message>
     <message>
         <location/>
         <source>Certificate Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>憑證驗證</translation>
     </message>
     <message>
         <location/>
@@ -2311,22 +2311,22 @@ Speak loudly, as when you are annoyed or excited. Decrease the volume in the sou
     <message>
         <location/>
         <source>Current certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>目前的憑證</translation>
     </message>
     <message>
         <location/>
         <source>This is the certificate Mumble currently uses.</source>
-        <translation type="unfinished"></translation>
+        <translation>這是 Mumble 目前使用的憑證。</translation>
     </message>
     <message>
         <location/>
         <source>Current Certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>目前的憑證</translation>
     </message>
     <message>
         <location/>
         <source>Create a new certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>建立新憑證</translation>
     </message>
     <message>
         <location/>
@@ -2346,12 +2346,12 @@ Speak loudly, as when you are annoyed or excited. Decrease the volume in the sou
     <message>
         <location/>
         <source>Import a certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>匯入憑證</translation>
     </message>
     <message>
         <location/>
         <source>Export Certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>匯出憑證</translation>
     </message>
     <message>
         <location/>
@@ -2361,12 +2361,12 @@ Speak loudly, as when you are annoyed or excited. Decrease the volume in the sou
     <message>
         <location/>
         <source>Export current certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>匯出目前的憑證</translation>
     </message>
     <message>
         <location/>
         <source>Import Certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>匯入憑證</translation>
     </message>
     <message>
         <location/>
@@ -2412,7 +2412,7 @@ Speak loudly, as when you are annoyed or excited. Decrease the volume in the sou
     <message>
         <location/>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>密碼</translation>
     </message>
     <message>
         <location/>
@@ -2437,7 +2437,7 @@ Speak loudly, as when you are annoyed or excited. Decrease the volume in the sou
     <message>
         <location/>
         <source>Certificate Details</source>
-        <translation type="unfinished"></translation>
+        <translation>憑證詳細資料</translation>
     </message>
     <message>
         <location/>
@@ -2480,7 +2480,7 @@ Are you sure you wish to replace your certificate?
     <message>
         <location/>
         <source>New Certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>新憑證</translation>
     </message>
     <message>
         <location/>
@@ -2525,7 +2525,7 @@ Are you sure you wish to replace your certificate?
     <message>
         <location/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <location/>
@@ -7091,7 +7091,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location line="+1"/>
         <source>Asia</source>
-        <translation type="unfinished"></translation>
+        <translation>亞洲</translation>
     </message>
     <message>
         <location line="+1"/>
