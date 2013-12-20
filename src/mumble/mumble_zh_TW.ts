@@ -260,7 +260,7 @@ This value enables you to change the way mumble arranges the channels in the tre
     <message>
         <location/>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>新增(&amp;A)</translation>
     </message>
     <message>
         <location/>
@@ -2132,7 +2132,7 @@ Speak loudly, as when you are annoyed or excited. Decrease the volume in the sou
     <message>
         <location filename="BanEditor.ui"/>
         <source>Mumble - Edit Bans</source>
-        <translation type="unfinished"></translation>
+        <translation>Mumble - 編輯封鎖</translation>
     </message>
     <message>
         <location/>
@@ -2167,7 +2167,7 @@ Speak loudly, as when you are annoyed or excited. Decrease the volume in the sou
     <message>
         <location/>
         <source>Hash</source>
-        <translation type="unfinished"></translation>
+        <translation>雜湊</translation>
     </message>
     <message>
         <location/>
@@ -3941,7 +3941,7 @@ This field describes the size of an LCD device. The size is given either in pixe
         <location filename="LookConfig.cpp" line="+55"/>
         <location line="+11"/>
         <source>System default</source>
-        <translation type="unfinished"></translation>
+        <translation>系統預設</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -3976,7 +3976,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location line="+4"/>
         <source>User Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>使用者介面</translation>
     </message>
     <message>
         <location line="+133"/>
@@ -4021,7 +4021,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>語言</translation>
     </message>
     <message>
         <location/>
@@ -4227,7 +4227,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location/>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>瀏覽(&amp;B)...</translation>
     </message>
     <message>
         <location/>
@@ -5150,12 +5150,12 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>&amp;Text-To-Speech</source>
-        <translation type="unfinished"></translation>
+        <translation>文字轉換語音(&amp;T)</translation>
     </message>
     <message>
         <location/>
         <source>Toggle Text-To-Speech</source>
-        <translation type="unfinished"></translation>
+        <translation>切換文字轉換語音</translation>
     </message>
     <message>
         <location/>
@@ -5350,7 +5350,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>&amp;Update Friend</source>
-        <translation type="unfinished"></translation>
+        <translation>更新朋友(&amp;U)</translation>
     </message>
     <message>
         <location/>
