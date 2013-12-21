@@ -1003,7 +1003,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location/>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>瀏覽(&amp;B)...</translation>
     </message>
     <message>
         <location/>
@@ -1131,7 +1131,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location line="+14"/>
         <source>Audio Input</source>
-        <translation type="unfinished"></translation>
+        <translation>音訊輸入</translation>
     </message>
     <message>
         <location line="+111"/>
@@ -1474,7 +1474,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location line="+6"/>
         <source>Audio Output</source>
-        <translation type="unfinished"></translation>
+        <translation>音訊輸出</translation>
     </message>
     <message>
         <location line="+106"/>
@@ -3417,7 +3417,7 @@ of the possible locations.</source>
     <message>
         <location filename="GlobalShortcut.cpp" line="+721"/>
         <source>Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>快速鍵</translation>
     </message>
     <message>
         <location line="+52"/>
@@ -3817,7 +3817,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location filename="Log.ui"/>
         <source>Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>訊息</translation>
     </message>
     <message>
         <location/>
@@ -4572,12 +4572,12 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location line="-899"/>
         <source>&amp;User</source>
-        <translation type="unfinished"></translation>
+        <translation>使用者(&amp;U)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>頻道(&amp;C)</translation>
     </message>
     <message>
         <location line="+63"/>
@@ -5963,7 +5963,7 @@ Valid options are:
     <message>
         <location filename="NetworkConfig.cpp" line="+56"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>網路</translation>
     </message>
     <message>
         <location line="+36"/>
@@ -6351,7 +6351,7 @@ Prevents the client from downloading images embedded into chat messages with the
     <message>
         <location line="+223"/>
         <source>Overlay</source>
-        <translation type="unfinished"></translation>
+        <translation>重疊影像</translation>
     </message>
     <message>
         <location line="+75"/>
@@ -6794,7 +6794,7 @@ To upgrade these files to their latest versions, click the button below.</source
         <location filename="Plugins.ui"/>
         <location filename="Plugins.cpp" line="+78"/>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>外掛程式</translation>
     </message>
     <message>
         <location filename="Plugins.cpp" line="+56"/>
