@@ -1008,7 +1008,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location/>
         <source>B&amp;rowse...</source>
-        <translation type="unfinished"></translation>
+        <translation>瀏覽(&amp;R)...</translation>
     </message>
     <message>
         <location/>
@@ -1219,7 +1219,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location/>
         <source>Audio Output</source>
-        <translation type="unfinished"></translation>
+        <translation>音訊輸出</translation>
     </message>
     <message>
         <location/>
@@ -1702,12 +1702,12 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location filename="AudioWizard.ui"/>
         <source>Audio Tuning Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>音訊微調精靈</translation>
     </message>
     <message>
         <location/>
         <source>Introduction</source>
-        <translation type="unfinished"></translation>
+        <translation>簡介</translation>
     </message>
     <message>
         <location/>
@@ -1742,7 +1742,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>系統</translation>
     </message>
     <message>
         <location/>
@@ -1757,7 +1757,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location/>
         <source>Device</source>
-        <translation type="unfinished"></translation>
+        <translation>裝置</translation>
     </message>
     <message>
         <location/>
@@ -1833,12 +1833,12 @@ Please be aware that as long as this wizard is active, audio will be looped loca
     <message>
         <location/>
         <source>Input Device</source>
-        <translation type="unfinished"></translation>
+        <translation>輸入裝置</translation>
     </message>
     <message>
         <location/>
         <source>Output Device</source>
-        <translation type="unfinished"></translation>
+        <translation>輸出裝置</translation>
     </message>
     <message>
         <location/>
@@ -2003,7 +2003,7 @@ Mumble is under continuous development, and the development team wants to focus 
     <message>
         <location/>
         <source>Quality settings</source>
-        <translation type="unfinished"></translation>
+        <translation>品質設定</translation>
     </message>
     <message>
         <location/>
@@ -2013,7 +2013,7 @@ Mumble is under continuous development, and the development team wants to focus 
     <message>
         <location/>
         <source>Balanced</source>
-        <translation type="unfinished"></translation>
+        <translation>平衡</translation>
     </message>
     <message>
         <location/>
