@@ -1259,7 +1259,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location/>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>音量</translation>
     </message>
     <message>
         <location/>
@@ -4041,7 +4041,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location/>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>版面配置</translation>
     </message>
     <message>
         <location/>
@@ -4061,7 +4061,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>自訂</translation>
     </message>
     <message>
         <location/>
@@ -4077,7 +4077,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location/>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>樣式</translation>
     </message>
     <message>
         <location/>
@@ -4092,7 +4092,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location/>
         <source>Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>面板</translation>
     </message>
     <message>
         <location/>
@@ -6403,7 +6403,7 @@ Prevents the client from downloading images embedded into chat messages with the
     <message>
         <location/>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>版面配置</translation>
     </message>
     <message>
         <location/>
@@ -6517,7 +6517,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>移除</translation>
     </message>
     <message>
         <location/>
@@ -6957,7 +6957,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location filename="RichTextEditor.ui"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>顯示</translation>
     </message>
     <message>
         <location/>
@@ -6967,37 +6967,37 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location/>
         <source>&amp;Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>粗體(&amp;B)</translation>
     </message>
     <message>
         <location/>
         <source>Ctrl+B</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+B</translation>
     </message>
     <message>
         <location/>
         <source>&amp;Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>斜體(&amp;I)</translation>
     </message>
     <message>
         <location/>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>斜體</translation>
     </message>
     <message>
         <location/>
         <source>Ctrl+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+I</translation>
     </message>
     <message>
         <location/>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>底線</translation>
     </message>
     <message>
         <location/>
         <source>Ctrl+U</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+U</translation>
     </message>
     <message>
         <location/>
@@ -7012,7 +7012,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location/>
         <source>Ctrl+L</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+L</translation>
     </message>
     <message>
         <location/>
@@ -7086,7 +7086,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location line="+6"/>
         <source>Africa</source>
-        <translation type="unfinished"></translation>
+        <translation>非洲</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -7096,17 +7096,17 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location line="+1"/>
         <source>North America</source>
-        <translation type="unfinished"></translation>
+        <translation>北美洲</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>South America</source>
-        <translation type="unfinished"></translation>
+        <translation>南美洲</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Europe</source>
-        <translation type="unfinished"></translation>
+        <translation>歐洲</translation>
     </message>
     <message>
         <location line="+1"/>
