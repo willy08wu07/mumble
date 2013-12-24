@@ -5973,7 +5973,7 @@ Valid options are:
     <message>
         <location filename="NetworkConfig.ui"/>
         <source>Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>連線</translation>
     </message>
     <message>
         <location/>
@@ -5999,17 +5999,17 @@ Valid options are:
     <message>
         <location/>
         <source>Reconnect automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>自動重新連線</translation>
     </message>
     <message>
         <location/>
         <source>Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>代理</translation>
     </message>
     <message>
         <location/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>類型</translation>
     </message>
     <message>
         <location/>
@@ -6089,7 +6089,7 @@ Valid options are:
     <message>
         <location/>
         <source>Port</source>
-        <translation type="unfinished"></translation>
+        <translation>連接埠</translation>
     </message>
     <message>
         <location/>
@@ -6104,7 +6104,7 @@ Valid options are:
     <message>
         <location/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>使用者名稱</translation>
     </message>
     <message>
         <location/>
@@ -6119,7 +6119,7 @@ Valid options are:
     <message>
         <location/>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>密碼</translation>
     </message>
     <message>
         <location/>
@@ -6155,7 +6155,7 @@ Prevents the client from downloading images embedded into chat messages with the
     <message>
         <location/>
         <source>Mumble services</source>
-        <translation type="unfinished"></translation>
+        <translation>Mumble 服務</translation>
     </message>
     <message>
         <location/>
@@ -6929,7 +6929,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location filename="PulseAudio.cpp" line="+756"/>
         <source>Default Input</source>
-        <translation type="unfinished"></translation>
+        <translation>預設輸入</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -7002,7 +7002,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>色彩</translation>
     </message>
     <message>
         <location/>
