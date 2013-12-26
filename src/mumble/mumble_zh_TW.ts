@@ -1528,7 +1528,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location filename="AudioStats.ui"/>
         <source>Audio Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>音訊統計</translation>
     </message>
     <message>
         <location/>
@@ -2723,7 +2723,7 @@ It is &lt;b&gt;strongly&lt;/b&gt; recommended that you &lt;a href=&quot;http://m
     <message>
         <location line="+8"/>
         <source>Text message</source>
-        <translation type="unfinished"></translation>
+        <translation>文字訊息</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2770,7 +2770,7 @@ It is &lt;b&gt;strongly&lt;/b&gt; recommended that you &lt;a href=&quot;http://m
     <message>
         <location filename="ClientUser.cpp" line="+134"/>
         <source>Friend</source>
-        <translation type="unfinished"></translation>
+        <translation>朋友</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -3665,7 +3665,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location line="+1"/>
         <source>Text Message</source>
-        <translation type="unfinished"></translation>
+        <translation>文字訊息</translation>
     </message>
     <message>
         <location line="-13"/>
@@ -4289,7 +4289,7 @@ This field describes the size of an LCD device. The size is given either in pixe
         <location line="+3"/>
         <source>Toggle Overlay</source>
         <comment>Global Shortcut</comment>
-        <translation type="unfinished"></translation>
+        <translation>切換重疊影像</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -6243,7 +6243,7 @@ Prevents the client from downloading images embedded into chat messages with the
         <location line="+17"/>
         <location filename="OverlayUser.cpp" line="-110"/>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>頻道</translation>
     </message>
     <message>
         <location filename="Overlay.cpp" line="+104"/>
@@ -6859,7 +6859,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location/>
         <source>&amp;About</source>
-        <translation type="unfinished"></translation>
+        <translation>關於(&amp;A)</translation>
     </message>
     <message>
         <location/>
@@ -6934,7 +6934,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location line="+1"/>
         <source>Default Output</source>
-        <translation type="unfinished"></translation>
+        <translation>預設輸出</translation>
     </message>
 </context>
 <context>
@@ -7025,7 +7025,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location filename="RichTextEditorLink.ui"/>
         <source>Add Link</source>
-        <translation type="unfinished"></translation>
+        <translation>新增連結</translation>
     </message>
     <message>
         <location/>
@@ -7035,7 +7035,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>文字</translation>
     </message>
 </context>
 <context>
@@ -7309,18 +7309,18 @@ An access token is a text string, which can be used as a password for very simpl
     <message>
         <location filename="UserEdit.ui"/>
         <source>Registered Users</source>
-        <translation type="unfinished"></translation>
+        <translation>已註冊的使用者</translation>
     </message>
     <message>
         <location/>
         <location filename="UserEdit.cpp" line="+99"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>移除</translation>
     </message>
     <message>
         <location filename="UserEdit.cpp" line="-5"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>重新命名</translation>
     </message>
 </context>
 <context>
@@ -7872,12 +7872,12 @@ An access token is a text string, which can be used as a password for very simpl
     <message>
         <location/>
         <source>00:00:00</source>
-        <translation type="unfinished"></translation>
+        <translation>00:00:00</translation>
     </message>
     <message>
         <location/>
         <source>&amp;Start</source>
-        <translation type="unfinished"></translation>
+        <translation>開始(&amp;S)</translation>
     </message>
     <message>
         <location/>
@@ -7887,7 +7887,7 @@ An access token is a text string, which can be used as a password for very simpl
     <message>
         <location/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>模式</translation>
     </message>
     <message>
         <location/>
@@ -7897,12 +7897,12 @@ An access token is a text string, which can be used as a password for very simpl
     <message>
         <location/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>輸出</translation>
     </message>
     <message>
         <location/>
         <source>Output format</source>
-        <translation type="unfinished"></translation>
+        <translation>輸出格式</translation>
     </message>
     <message>
         <location/>
@@ -7912,12 +7912,12 @@ An access token is a text string, which can be used as a password for very simpl
     <message>
         <location/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>檔案名稱</translation>
     </message>
     <message>
         <location/>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>瀏覽(&amp;B)...</translation>
     </message>
     <message>
         <location filename="VoiceRecorderDialog.cpp" line="-195"/>
