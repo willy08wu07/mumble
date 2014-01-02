@@ -2628,7 +2628,7 @@ It is &lt;b&gt;strongly&lt;/b&gt; recommended that you &lt;a href=&quot;http://m
     <message>
         <location line="+2"/>
         <source>Link channel</source>
-        <translation type="unfinished"></translation>
+        <translation>連結頻道</translation>
     </message>
     <message>
         <location line="-87"/>
@@ -2893,7 +2893,7 @@ It is &lt;b&gt;strongly&lt;/b&gt; recommended that you &lt;a href=&quot;http://m
         <location line="-515"/>
         <location line="+515"/>
         <source>Enter username</source>
-        <translation type="unfinished"></translation>
+        <translation>輸入使用者名稱</translation>
     </message>
     <message>
         <location line="-515"/>
@@ -2919,7 +2919,7 @@ It is &lt;b&gt;strongly&lt;/b&gt; recommended that you &lt;a href=&quot;http://m
     <message>
         <location line="+3"/>
         <source>Port</source>
-        <translation type="unfinished"></translation>
+        <translation>連接埠</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3389,7 +3389,7 @@ of the possible locations.</source>
     <message>
         <location/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>移除(&amp;R)</translation>
     </message>
     <message>
         <location/>
@@ -3481,7 +3481,7 @@ of the possible locations.</source>
     <message>
         <location/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>移除</translation>
     </message>
     <message>
         <location/>
@@ -3560,12 +3560,12 @@ of the possible locations.</source>
     <message>
         <location/>
         <source>Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>裝置</translation>
     </message>
     <message>
         <location/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <location/>
@@ -3585,7 +3585,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location/>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>啟用</translation>
     </message>
     <message>
         <location/>
@@ -3822,7 +3822,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location/>
         <source>Message</source>
-        <translation type="unfinished"></translation>
+        <translation>訊息</translation>
     </message>
     <message>
         <location/>
@@ -3832,12 +3832,12 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location/>
         <source>Notification</source>
-        <translation type="unfinished"></translation>
+        <translation>通知</translation>
     </message>
     <message>
         <location/>
         <source>Text-To-Speech</source>
-        <translation type="unfinished"></translation>
+        <translation>文字轉換語音</translation>
     </message>
     <message>
         <location/>
@@ -3852,12 +3852,12 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location/>
         <source>Text To Speech</source>
-        <translation type="unfinished"></translation>
+        <translation>文字轉換語音</translation>
     </message>
     <message>
         <location/>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>音量</translation>
     </message>
     <message>
         <location/>
@@ -4271,7 +4271,7 @@ This field describes the size of an LCD device. The size is given either in pixe
         <location line="+13"/>
         <source>Unlink Plugin</source>
         <comment>Global Shortcut</comment>
-        <translation type="unfinished"></translation>
+        <translation>取消連結外掛程式</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -4445,7 +4445,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location line="+0"/>
         <source>Enter username</source>
-        <translation type="unfinished"></translation>
+        <translation>輸入使用者名稱</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -6392,7 +6392,7 @@ Prevents the client from downloading images embedded into chat messages with the
     <message>
         <location/>
         <source>Enable Overlay</source>
-        <translation type="unfinished"></translation>
+        <translation>啟用重疊影像</translation>
     </message>
     <message>
         <location/>
@@ -6620,7 +6620,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>使用者名稱</translation>
     </message>
     <message>
         <location/>
@@ -6630,7 +6630,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location/>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>頻道</translation>
     </message>
     <message>
         <location/>
@@ -6879,12 +6879,12 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <location/>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>啟用</translation>
     </message>
 </context>
 <context>
