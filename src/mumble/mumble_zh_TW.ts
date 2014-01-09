@@ -7007,7 +7007,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location/>
         <source>Insert Link</source>
-        <translation type="unfinished"></translation>
+        <translation>插入連結</translation>
     </message>
     <message>
         <location/>
@@ -7017,7 +7017,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location/>
         <source>Insert Image</source>
-        <translation type="unfinished"></translation>
+        <translation>插入影像</translation>
     </message>
 </context>
 <context>
@@ -7245,7 +7245,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location filename="TextMessage.h" line="+45"/>
         <source>Enter text</source>
-        <translation type="unfinished"></translation>
+        <translation>輸入文字</translation>
     </message>
     <message>
         <location filename="TextMessage.ui"/>
@@ -7328,7 +7328,7 @@ An access token is a text string, which can be used as a password for very simpl
     <message>
         <location filename="UserInformation.ui"/>
         <source>User Information</source>
-        <translation type="unfinished"></translation>
+        <translation>使用者資訊</translation>
     </message>
     <message>
         <location/>
@@ -7338,7 +7338,7 @@ An access token is a text string, which can be used as a password for very simpl
     <message>
         <location/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>版本</translation>
     </message>
     <message>
         <location/>
@@ -7502,13 +7502,13 @@ An access token is a text string, which can be used as a password for very simpl
         <location filename="UserInformation.ui"/>
         <source>Bandwidth</source>
         <comment>GroupBox</comment>
-        <translation type="unfinished"></translation>
+        <translation>頻寬</translation>
     </message>
     <message>
         <location/>
         <source>Bandwidth</source>
         <comment>Label</comment>
-        <translation type="unfinished"></translation>
+        <translation>頻寬</translation>
     </message>
     <message>
         <location/>
@@ -7862,12 +7862,12 @@ An access token is a text string, which can be used as a password for very simpl
         <location line="+9"/>
         <location line="+136"/>
         <source>Recorder</source>
-        <translation type="unfinished"></translation>
+        <translation>錄音機</translation>
     </message>
     <message>
         <location/>
         <source>Control</source>
-        <translation type="unfinished"></translation>
+        <translation>控制</translation>
     </message>
     <message>
         <location/>
@@ -7882,7 +7882,7 @@ An access token is a text string, which can be used as a password for very simpl
     <message>
         <location/>
         <source>S&amp;top</source>
-        <translation type="unfinished"></translation>
+        <translation>停止(&amp;T)</translation>
     </message>
     <message>
         <location/>
