@@ -135,7 +135,7 @@ This value enables you to change the way mumble arranges the channels in the tre
     <message>
         <location/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>移除</translation>
     </message>
     <message>
         <location/>
@@ -175,7 +175,7 @@ This value enables you to change the way mumble arranges the channels in the tre
     <message>
         <location/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>新增</translation>
     </message>
     <message>
         <location/>
@@ -275,7 +275,7 @@ This value enables you to change the way mumble arranges the channels in the tre
     <message>
         <location/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>移除(&amp;R)</translation>
     </message>
     <message>
         <location/>
@@ -1469,7 +1469,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location line="+1"/>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>伺服器</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -7333,7 +7333,7 @@ An access token is a text string, which can be used as a password for very simpl
     <message>
         <location/>
         <source>Connection Information</source>
-        <translation type="unfinished"></translation>
+        <translation>連線資訊</translation>
     </message>
     <message>
         <location/>
@@ -7363,7 +7363,7 @@ An access token is a text string, which can be used as a password for very simpl
     <message>
         <location/>
         <source>Details...</source>
-        <translation type="unfinished"></translation>
+        <translation>詳細資料...</translation>
     </message>
     <message>
         <location/>
@@ -7398,22 +7398,22 @@ An access token is a text string, which can be used as a password for very simpl
     <message>
         <location/>
         <source>Good</source>
-        <translation type="unfinished"></translation>
+        <translation>優良</translation>
     </message>
     <message>
         <location/>
         <source>Late</source>
-        <translation type="unfinished"></translation>
+        <translation>延遲</translation>
     </message>
     <message>
         <location/>
         <source>Lost</source>
-        <translation type="unfinished"></translation>
+        <translation>遺失</translation>
     </message>
     <message>
         <location/>
         <source>Resync</source>
-        <translation type="unfinished"></translation>
+        <translation>重新同步</translation>
     </message>
     <message>
         <location/>
