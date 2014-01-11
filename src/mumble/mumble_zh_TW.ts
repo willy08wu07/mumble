@@ -3152,12 +3152,12 @@ Username to send to the server. Be aware that the server can impose restrictions
     <message>
         <location filename="ConnectDialog.cpp" line="-75"/>
         <source>Add Server</source>
-        <translation type="unfinished"></translation>
+        <translation>新增伺服器</translation>
     </message>
     <message>
         <location filename="ConnectDialogEdit.ui"/>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>密碼</translation>
     </message>
     <message>
         <location/>
@@ -6507,7 +6507,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>色彩</translation>
     </message>
     <message>
         <location/>
@@ -6913,7 +6913,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location line="+74"/>
         <source>%1 linked.</source>
-        <translation type="unfinished"></translation>
+        <translation>已連結至 %1。</translation>
     </message>
 </context>
 <context>
@@ -7343,17 +7343,17 @@ An access token is a text string, which can be used as a password for very simpl
     <message>
         <location/>
         <source>OS</source>
-        <translation type="unfinished"></translation>
+        <translation>OS</translation>
     </message>
     <message>
         <location/>
         <source>Certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>憑證</translation>
     </message>
     <message>
         <location/>
         <source>IP Address</source>
-        <translation type="unfinished"></translation>
+        <translation>IP 位址</translation>
     </message>
     <message>
         <location/>
@@ -7383,7 +7383,7 @@ An access token is a text string, which can be used as a password for very simpl
     <message>
         <location/>
         <source>TCP (Control)</source>
-        <translation type="unfinished"></translation>
+        <translation>TCP (控制)</translation>
     </message>
     <message>
         <location/>
@@ -7393,7 +7393,7 @@ An access token is a text string, which can be used as a password for very simpl
     <message>
         <location/>
         <source>UDP Network statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>UDP 網路統計</translation>
     </message>
     <message>
         <location/>
@@ -7428,7 +7428,7 @@ An access token is a text string, which can be used as a password for very simpl
     <message>
         <location/>
         <source>Connection time</source>
-        <translation type="unfinished"></translation>
+        <translation>連線時間</translation>
     </message>
     <message>
         <location filename="UserInformation.cpp" line="+99"/>
