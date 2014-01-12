@@ -3640,12 +3640,12 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location line="+1"/>
         <source>Server Connected</source>
-        <translation type="unfinished"></translation>
+        <translation>伺服器已連線</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Server Disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>伺服器已斷線</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -3670,12 +3670,12 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location line="-13"/>
         <source>User Joined Server</source>
-        <translation type="unfinished"></translation>
+        <translation>使用者已加入伺服器</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>User Left Server</source>
-        <translation type="unfinished"></translation>
+        <translation>使用者已離開伺服器</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3710,12 +3710,12 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location line="+1"/>
         <source>User Joined Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>使用者已加入頻道</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>User Left Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>使用者已離開頻道</translation>
     </message>
     <message>
         <location line="+59"/>
@@ -4295,7 +4295,7 @@ This field describes the size of an LCD device. The size is given either in pixe
         <location line="+2"/>
         <source>Toggle state of in-game overlay.</source>
         <comment>Global Shortcut</comment>
-        <translation type="unfinished"></translation>
+        <translation>切換遊戲中重疊影像的狀態。</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -6311,7 +6311,7 @@ Prevents the client from downloading images embedded into chat messages with the
     <message>
         <location line="+5"/>
         <source>Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>編輯...</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -6440,7 +6440,7 @@ Click the button below to install the overlay.</source>
     <message>
         <location/>
         <source>Install Mumble Overlay</source>
-        <translation type="unfinished"></translation>
+        <translation>安裝 Mumble 重疊影像</translation>
     </message>
     <message>
         <location/>
@@ -6512,7 +6512,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location/>
         <source>Add...</source>
-        <translation type="unfinished"></translation>
+        <translation>新增...</translation>
     </message>
     <message>
         <location/>
