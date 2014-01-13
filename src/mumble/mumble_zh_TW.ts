@@ -1121,7 +1121,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location line="+1"/>
         <source>Voice Activity</source>
-        <translation type="unfinished"></translation>
+        <translation>語音活動</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4241,7 +4241,7 @@ This field describes the size of an LCD device. The size is given either in pixe
         <location filename="MainWindow.cpp" line="+182"/>
         <location line="+2131"/>
         <source>Root</source>
-        <translation type="unfinished"></translation>
+        <translation>根頻道</translation>
     </message>
     <message>
         <location line="-2079"/>
@@ -4440,7 +4440,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location line="+29"/>
         <source>Connecting to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>正在連線到 %1</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -4589,7 +4589,7 @@ This field describes the size of an LCD device. The size is given either in pixe
         <location line="+19"/>
         <source>Link Channel</source>
         <comment>Global Shortcut</comment>
-        <translation type="unfinished"></translation>
+        <translation>連結頻道</translation>
     </message>
     <message>
         <location line="+688"/>
@@ -6725,7 +6725,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location line="+7"/>
         <source>Color...</source>
-        <translation type="unfinished"></translation>
+        <translation>色彩...</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -7368,7 +7368,7 @@ An access token is a text string, which can be used as a password for very simpl
     <message>
         <location/>
         <source>Ping Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>Ping 統計</translation>
     </message>
     <message>
         <location/>
@@ -7378,7 +7378,7 @@ An access token is a text string, which can be used as a password for very simpl
     <message>
         <location/>
         <source>Average ping</source>
-        <translation type="unfinished"></translation>
+        <translation>平均 Ping</translation>
     </message>
     <message>
         <location/>
@@ -7388,7 +7388,7 @@ An access token is a text string, which can be used as a password for very simpl
     <message>
         <location/>
         <source>UDP (Voice)</source>
-        <translation type="unfinished"></translation>
+        <translation>UDP (語音)</translation>
     </message>
     <message>
         <location/>
@@ -7642,7 +7642,7 @@ An access token is a text string, which can be used as a password for very simpl
     <message>
         <location line="+18"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -7720,7 +7720,7 @@ An access token is a text string, which can be used as a password for very simpl
     <message>
         <location line="+3"/>
         <source>Certificate details</source>
-        <translation type="unfinished"></translation>
+        <translation>憑證詳細資料</translation>
     </message>
     <message>
         <location line="+28"/>
