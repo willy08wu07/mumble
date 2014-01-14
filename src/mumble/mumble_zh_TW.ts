@@ -37,7 +37,7 @@
     <message>
         <location line="-153"/>
         <source>Mumble - Edit %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mumble - 編輯 %1</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -933,7 +933,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>停用</translation>
     </message>
     <message>
         <location/>
@@ -1504,12 +1504,12 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location filename="AudioOutputSample.cpp" line="+211"/>
         <source>Choose sound file</source>
-        <translation type="unfinished"></translation>
+        <translation>選擇音效檔案</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Invalid sound file</source>
-        <translation type="unfinished"></translation>
+        <translation>無效的音效檔案</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2195,7 +2195,7 @@ Speak loudly, as when you are annoyed or excited. Decrease the volume in the sou
     <message>
         <location line="+7"/>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>電子郵件</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2407,7 +2407,7 @@ Speak loudly, as when you are annoyed or excited. Decrease the volume in the sou
     <message>
         <location/>
         <source>Open...</source>
-        <translation type="unfinished"></translation>
+        <translation>開啟...</translation>
     </message>
     <message>
         <location/>
@@ -2530,7 +2530,7 @@ Are you sure you wish to replace your certificate?
     <message>
         <location/>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>電子郵件</translation>
     </message>
     <message>
         <location/>
@@ -2757,7 +2757,7 @@ It is &lt;b&gt;strongly&lt;/b&gt; recommended that you &lt;a href=&quot;http://m
         <location filename="CustomElements.cpp" line="+108"/>
         <source>Paste and &amp;Send</source>
         <oldsource>Paste and send</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>貼上並傳送(&amp;S)</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -5935,7 +5935,7 @@ Valid options are:
     <message>
         <location/>
         <source>&amp;Copy URL</source>
-        <translation type="unfinished"></translation>
+        <translation>複製 URL(&amp;C)</translation>
     </message>
     <message>
         <location/>
@@ -6150,7 +6150,7 @@ Prevents the client from downloading images embedded into chat messages with the
     <message>
         <location/>
         <source>Disable image download</source>
-        <translation type="unfinished"></translation>
+        <translation>停用影像下載</translation>
     </message>
     <message>
         <location/>
@@ -6387,7 +6387,7 @@ Prevents the client from downloading images embedded into chat messages with the
     <message>
         <location/>
         <source>Enable overlay.</source>
-        <translation type="unfinished"></translation>
+        <translation>啟用重疊影像。</translation>
     </message>
     <message>
         <location/>
@@ -6487,7 +6487,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message utf8="true">
         <location/>
         <source>Save…</source>
-        <translation type="unfinished"></translation>
+        <translation>儲存…</translation>
     </message>
     <message>
         <location/>
@@ -6522,7 +6522,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location/>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>字型</translation>
     </message>
     <message>
         <location/>
@@ -6610,12 +6610,12 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location/>
         <source>Avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>大頭貼</translation>
     </message>
     <message>
         <location/>
         <source>User&apos;s name</source>
-        <translation type="unfinished"></translation>
+        <translation>使用者的名稱</translation>
     </message>
     <message>
         <location/>
@@ -6655,7 +6655,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location/>
         <source>Overlay Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>重疊影像編輯器</translation>
     </message>
 </context>
 <context>
@@ -6730,7 +6730,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location line="+1"/>
         <source>Font...</source>
-        <translation type="unfinished"></translation>
+        <translation>字型...</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -7030,7 +7030,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location/>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location/>
@@ -7076,7 +7076,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location line="+6"/>
         <source>LAN</source>
-        <translation type="unfinished"></translation>
+        <translation>LAN</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -7795,7 +7795,7 @@ An access token is a text string, which can be used as a password for very simpl
     <message>
         <location line="+4"/>
         <source>Email: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>電子郵件: %1</translation>
     </message>
     <message>
         <location line="+4"/>
