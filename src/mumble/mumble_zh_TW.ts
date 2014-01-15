@@ -718,7 +718,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location/>
         <source>Input device for audio</source>
-        <translation type="unfinished"></translation>
+        <translation>音訊的輸入裝置</translation>
     </message>
     <message>
         <location/>
@@ -1459,7 +1459,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location filename="AudioConfigDialog.cpp" line="+135"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>無</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1649,7 +1649,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location/>
         <source>Speech Detection</source>
-        <translation type="unfinished"></translation>
+        <translation>語音偵測</translation>
     </message>
     <message>
         <location/>
@@ -1942,7 +1942,7 @@ Mumble is under continuous development, and the development team wants to focus 
     <message>
         <location/>
         <source>Voice Activity Detection</source>
-        <translation type="unfinished"></translation>
+        <translation>語音活動偵測</translation>
     </message>
     <message>
         <location/>
@@ -2053,7 +2053,7 @@ Mumble is under continuous development, and the development team wants to focus 
     <message>
         <location/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>自訂</translation>
     </message>
     <message>
         <location/>
@@ -2210,7 +2210,7 @@ Speak loudly, as when you are annoyed or excited. Decrease the volume in the sou
     <message>
         <location line="+34"/>
         <source>(none)</source>
-        <translation type="unfinished"></translation>
+        <translation>(無)</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -2442,7 +2442,7 @@ Speak loudly, as when you are annoyed or excited. Decrease the volume in the sou
     <message>
         <location/>
         <source>Replace Certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>取代憑證</translation>
     </message>
     <message>
         <location/>
@@ -2470,7 +2470,7 @@ Are you sure you wish to replace your certificate?
     <message>
         <location/>
         <source>New certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>新憑證</translation>
     </message>
     <message>
         <location/>
@@ -2505,7 +2505,7 @@ Are you sure you wish to replace your certificate?
     <message>
         <location/>
         <source>Save As...</source>
-        <translation type="unfinished"></translation>
+        <translation>另存...</translation>
     </message>
     <message>
         <location/>
@@ -2570,7 +2570,7 @@ Are you sure you wish to replace your certificate?
     <message>
         <location/>
         <source>Automatic certificate creation</source>
-        <translation type="unfinished"></translation>
+        <translation>自動建立憑證</translation>
     </message>
     <message>
         <location/>
@@ -2593,7 +2593,7 @@ It is &lt;b&gt;strongly&lt;/b&gt; recommended that you &lt;a href=&quot;http://m
     <message>
         <location filename="../ACL.cpp" line="+230"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>無</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2733,7 +2733,7 @@ It is &lt;b&gt;strongly&lt;/b&gt; recommended that you &lt;a href=&quot;http://m
     <message>
         <location line="+2"/>
         <source>Ban</source>
-        <translation type="unfinished"></translation>
+        <translation>封鎖</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2965,7 +2965,7 @@ It is &lt;b&gt;strongly&lt;/b&gt; recommended that you &lt;a href=&quot;http://m
     <message>
         <location line="+293"/>
         <source>&amp;Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>連線(&amp;C)</translation>
     </message>
     <message>
         <location line="+46"/>
@@ -2976,12 +2976,12 @@ It is &lt;b&gt;strongly&lt;/b&gt; recommended that you &lt;a href=&quot;http://m
         <location filename="ConnectDialog.ui"/>
         <location filename="ConnectDialog.cpp" line="-338"/>
         <source>Users</source>
-        <translation type="unfinished"></translation>
+        <translation>使用者</translation>
     </message>
     <message>
         <location filename="ConnectDialog.cpp" line="+1"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>版本</translation>
     </message>
     <message>
         <location line="+1015"/>
@@ -3026,7 +3026,7 @@ It is &lt;b&gt;strongly&lt;/b&gt; recommended that you &lt;a href=&quot;http://m
     <message>
         <location/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>複製(&amp;C)</translation>
     </message>
     <message>
         <location/>
@@ -3047,7 +3047,7 @@ It is &lt;b&gt;strongly&lt;/b&gt; recommended that you &lt;a href=&quot;http://m
         <location/>
         <location filename="ConnectDialog.cpp" line="-716"/>
         <source>&amp;Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>編輯(&amp;E)...</translation>
     </message>
     <message>
         <location/>
@@ -3086,7 +3086,7 @@ It is &lt;b&gt;strongly&lt;/b&gt; recommended that you &lt;a href=&quot;http://m
     <message>
         <location filename="ConnectDialogEdit.ui"/>
         <source>Edit Server</source>
-        <translation type="unfinished"></translation>
+        <translation>編輯伺服器</translation>
     </message>
     <message>
         <location/>
@@ -3115,7 +3115,7 @@ Internet address of the server. This can be a normal hostname, an ipv4/6 address
     <message>
         <location/>
         <source>&amp;Port</source>
-        <translation type="unfinished"></translation>
+        <translation>連接埠(&amp;P)</translation>
     </message>
     <message>
         <location/>
@@ -3131,7 +3131,7 @@ Port on which the server is listening. If the server is identified by a Bonjour 
     <message>
         <location/>
         <source>&amp;Username</source>
-        <translation type="unfinished"></translation>
+        <translation>使用者名稱(&amp;U)</translation>
     </message>
     <message>
         <location/>
