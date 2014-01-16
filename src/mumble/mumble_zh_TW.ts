@@ -16,12 +16,12 @@
     <message>
         <location line="+21"/>
         <source>Allow %1</source>
-        <translation type="unfinished"></translation>
+        <translation>允許 %1</translation>
     </message>
     <message>
         <location line="-8"/>
         <source>Deny %1</source>
-        <translation type="unfinished"></translation>
+        <translation>拒絕 %1</translation>
     </message>
     <message>
         <location line="-62"/>
@@ -372,7 +372,7 @@ Add a new group.</source>
     <message>
         <location/>
         <source>User/Group</source>
-        <translation type="unfinished"></translation>
+        <translation>使用者/群組</translation>
     </message>
     <message>
         <location/>
@@ -2887,7 +2887,7 @@ It is &lt;b&gt;strongly&lt;/b&gt; recommended that you &lt;a href=&quot;http://m
     <message>
         <location filename="ConnectDialog.cpp" line="+906"/>
         <source>Connecting to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>正在連線到 %1</translation>
     </message>
     <message>
         <location line="-515"/>
@@ -2904,7 +2904,7 @@ It is &lt;b&gt;strongly&lt;/b&gt; recommended that you &lt;a href=&quot;http://m
         <location filename="ConnectDialog.ui"/>
         <location filename="ConnectDialog.cpp" line="+61"/>
         <source>Servername</source>
-        <translation type="unfinished"></translation>
+        <translation>伺服器名稱</translation>
     </message>
     <message>
         <location filename="ConnectDialog.cpp" line="+1"/>
@@ -3096,7 +3096,7 @@ It is &lt;b&gt;strongly&lt;/b&gt; recommended that you &lt;a href=&quot;http://m
     <message>
         <location/>
         <source>A&amp;ddress</source>
-        <translation type="unfinished"></translation>
+        <translation>位址(&amp;D)</translation>
     </message>
     <message>
         <location/>
@@ -3476,7 +3476,7 @@ of the possible locations.</source>
     <message>
         <location/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>新增</translation>
     </message>
     <message>
         <location/>
@@ -3842,7 +3842,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location/>
         <source>Soundfile</source>
-        <translation type="unfinished"></translation>
+        <translation>音效檔案</translation>
     </message>
     <message>
         <location/>
@@ -5105,7 +5105,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>&amp;Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>重設(&amp;R)</translation>
     </message>
     <message>
         <location/>
@@ -6684,7 +6684,7 @@ To upgrade these files to their latest versions, click the button below.</source
         <location line="+6"/>
         <location line="+31"/>
         <source>%1%</source>
-        <translation type="unfinished"></translation>
+        <translation>%1%</translation>
     </message>
     <message>
         <location line="-5"/>
