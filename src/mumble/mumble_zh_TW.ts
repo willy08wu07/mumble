@@ -3091,7 +3091,7 @@ It is &lt;b&gt;strongly&lt;/b&gt; recommended that you &lt;a href=&quot;http://m
     <message>
         <location/>
         <source>Name of the server</source>
-        <translation type="unfinished"></translation>
+        <translation>伺服器的名稱</translation>
     </message>
     <message>
         <location/>
@@ -3147,7 +3147,7 @@ Username to send to the server. Be aware that the server can impose restrictions
     <message>
         <location/>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>標籤</translation>
     </message>
     <message>
         <location filename="ConnectDialog.cpp" line="-75"/>
@@ -4046,17 +4046,17 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location/>
         <source>Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>傳統</translation>
     </message>
     <message>
         <location/>
         <source>Stacked</source>
-        <translation type="unfinished"></translation>
+        <translation>堆疊</translation>
     </message>
     <message>
         <location/>
         <source>Hybrid</source>
-        <translation type="unfinished"></translation>
+        <translation>混合</translation>
     </message>
     <message>
         <location/>
@@ -4132,7 +4132,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location/>
         <source>Always On Top</source>
-        <translation type="unfinished"></translation>
+        <translation>最上層顯示</translation>
     </message>
     <message>
         <location/>
@@ -4207,7 +4207,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location/>
         <source>Application</source>
-        <translation type="unfinished"></translation>
+        <translation>應用程式</translation>
     </message>
     <message>
         <location/>
@@ -6044,7 +6044,7 @@ Valid options are:
     <message>
         <location/>
         <source>Force TCP mode</source>
-        <translation type="unfinished"></translation>
+        <translation>強制使用 TCP 模式</translation>
     </message>
     <message>
         <location/>
@@ -6809,12 +6809,12 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location filename="Plugins.ui"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>表單</translation>
     </message>
     <message>
         <location/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>選項</translation>
     </message>
     <message>
         <location/>
