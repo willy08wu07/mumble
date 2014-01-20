@@ -529,7 +529,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location filename="ASIOInput.ui"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>表單</translation>
     </message>
     <message>
         <location/>
@@ -609,7 +609,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location/>
         <source>Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>頻道</translation>
     </message>
     <message>
         <location/>
@@ -688,7 +688,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location filename="AudioInput.ui"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>表單</translation>
     </message>
     <message>
         <location/>
@@ -983,7 +983,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location/>
         <source>Exclusive mode</source>
-        <translation type="unfinished"></translation>
+        <translation>獨占模式</translation>
     </message>
     <message>
         <location/>
@@ -993,7 +993,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location/>
         <source>Exclusive</source>
-        <translation type="unfinished"></translation>
+        <translation>獨占</translation>
     </message>
     <message>
         <location/>
@@ -1138,7 +1138,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
         <location line="+8"/>
         <location line="+7"/>
         <source>%1 ms</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 毫秒</translation>
     </message>
     <message>
         <location line="-9"/>
@@ -1173,7 +1173,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location filename="AudioOutput.ui"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>表單</translation>
     </message>
     <message>
         <location/>
@@ -1451,7 +1451,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location/>
         <source>Exclusive</source>
-        <translation type="unfinished"></translation>
+        <translation>獨占</translation>
     </message>
 </context>
 <context>
@@ -1481,7 +1481,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
         <location line="+19"/>
         <location line="+8"/>
         <source>%1 ms</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 毫秒</translation>
     </message>
     <message>
         <location line="-16"/>
@@ -1523,7 +1523,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
         <location filename="AudioStats.cpp" line="+387"/>
         <source>&gt;1000 ms</source>
         <oldsource>&gt;1000ms</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&gt;1000 毫秒</translation>
     </message>
     <message>
         <location filename="AudioStats.ui"/>
@@ -1712,7 +1712,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location/>
         <source>Welcome to the Mumble Audio Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>歡迎來到 Mumble 音訊精靈</translation>
     </message>
     <message>
         <location/>
@@ -1927,7 +1927,7 @@ Mumble is under continuous development, and the development team wants to focus 
     <message>
         <location/>
         <source>Volume tuning</source>
-        <translation type="unfinished"></translation>
+        <translation>音量微調</translation>
     </message>
     <message>
         <location/>
@@ -1973,7 +1973,7 @@ Mumble is under continuous development, and the development team wants to focus 
     <message>
         <location/>
         <source>Device tuning</source>
-        <translation type="unfinished"></translation>
+        <translation>裝置微調</translation>
     </message>
     <message>
         <location/>
@@ -2033,7 +2033,7 @@ Mumble is under continuous development, and the development team wants to focus 
     <message>
         <location filename="AudioWizard.cpp" line="+309"/>
         <source>%1 ms</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 毫秒</translation>
     </message>
     <message>
         <location filename="AudioWizard.ui"/>
@@ -2945,7 +2945,7 @@ It is &lt;b&gt;strongly&lt;/b&gt; recommended that you &lt;a href=&quot;http://m
         <location line="+0"/>
         <location line="+2"/>
         <source>%1 ms</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 毫秒</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -2955,7 +2955,7 @@ It is &lt;b&gt;strongly&lt;/b&gt; recommended that you &lt;a href=&quot;http://m
     <message>
         <location line="+2"/>
         <source>Bandwidth</source>
-        <translation type="unfinished"></translation>
+        <translation>頻寬</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -2991,7 +2991,7 @@ It is &lt;b&gt;strongly&lt;/b&gt; recommended that you &lt;a href=&quot;http://m
     <message>
         <location filename="ConnectDialog.ui"/>
         <source>Mumble Server Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Mumble 伺服器連線</translation>
     </message>
     <message>
         <location/>
@@ -3349,12 +3349,12 @@ of the possible locations.</source>
     <message>
         <location/>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>資料</translation>
     </message>
     <message>
         <location/>
         <source>Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>快速鍵</translation>
     </message>
     <message>
         <location/>
@@ -3374,7 +3374,7 @@ of the possible locations.</source>
     <message>
         <location/>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>新增(&amp;A)</translation>
     </message>
     <message>
         <location/>
