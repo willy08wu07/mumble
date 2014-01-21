@@ -2200,7 +2200,7 @@ Speak loudly, as when you are annoyed or excited. Decrease the volume in the sou
     <message>
         <location line="+7"/>
         <source>Issuer</source>
-        <translation type="unfinished"></translation>
+        <translation>簽發者</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2924,7 +2924,7 @@ It is &lt;b&gt;strongly&lt;/b&gt; recommended that you &lt;a href=&quot;http://m
     <message>
         <location line="+1"/>
         <source>Addresses</source>
-        <translation type="unfinished"></translation>
+        <translation>位址</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3021,7 +3021,7 @@ It is &lt;b&gt;strongly&lt;/b&gt; recommended that you &lt;a href=&quot;http://m
     <message>
         <location/>
         <source>Show all servers</source>
-        <translation type="unfinished"></translation>
+        <translation>顯示所有伺服器</translation>
     </message>
     <message>
         <location/>
@@ -3036,7 +3036,7 @@ It is &lt;b&gt;strongly&lt;/b&gt; recommended that you &lt;a href=&quot;http://m
     <message>
         <location/>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>貼上(&amp;P)</translation>
     </message>
     <message>
         <location/>
@@ -3053,12 +3053,12 @@ It is &lt;b&gt;strongly&lt;/b&gt; recommended that you &lt;a href=&quot;http://m
         <location/>
         <location filename="ConnectDialog.cpp" line="-6"/>
         <source>&amp;Add New...</source>
-        <translation type="unfinished"></translation>
+        <translation>新增(&amp;A)...</translation>
     </message>
     <message>
         <location/>
         <source>Add to &amp;Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>加到我的最愛(&amp;F)</translation>
     </message>
     <message>
         <location/>
@@ -3078,7 +3078,7 @@ It is &lt;b&gt;strongly&lt;/b&gt; recommended that you &lt;a href=&quot;http://m
     <message>
         <location/>
         <source>Show &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>顯示所有(&amp;A)</translation>
     </message>
 </context>
 <context>
@@ -3136,7 +3136,7 @@ Port on which the server is listening. If the server is identified by a Bonjour 
     <message>
         <location/>
         <source>Username to send to the server</source>
-        <translation type="unfinished"></translation>
+        <translation>傳送到伺服器的使用者名稱</translation>
     </message>
     <message>
         <location/>
@@ -3162,7 +3162,7 @@ Username to send to the server. Be aware that the server can impose restrictions
     <message>
         <location/>
         <source>Password to send to the server</source>
-        <translation type="unfinished"></translation>
+        <translation>傳送到伺服器的密碼</translation>
     </message>
     <message>
         <location/>
@@ -3173,7 +3173,7 @@ Password to be sent to the server on connect. This password is needed when conne
     <message>
         <location/>
         <source>Show password</source>
-        <translation type="unfinished"></translation>
+        <translation>顯示密碼</translation>
     </message>
     <message>
         <location/>
@@ -3195,7 +3195,7 @@ Label of the server. This is what the server will be named like in your server l
     <message>
         <location filename="CrashReporter.cpp" line="+40"/>
         <source>Mumble Crash Report</source>
-        <translation type="unfinished"></translation>
+        <translation>Mumble 當機報告</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -3216,7 +3216,7 @@ Label of the server. This is what the server will be named like in your server l
     <message>
         <location line="+5"/>
         <source>Send Report</source>
-        <translation type="unfinished"></translation>
+        <translation>傳送報告</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3334,7 +3334,7 @@ of the possible locations.</source>
     <message>
         <location filename="GlobalShortcut.ui"/>
         <source>Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>快速鍵</translation>
     </message>
     <message>
         <location/>
@@ -3364,7 +3364,7 @@ of the possible locations.</source>
     <message>
         <location/>
         <source>Add new shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>新增快速鍵</translation>
     </message>
     <message>
         <location/>
@@ -4192,7 +4192,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location/>
         <source>Show context menu in menu bar</source>
-        <translation type="unfinished"></translation>
+        <translation>在功能表列顯示內容功能表</translation>
     </message>
     <message>
         <location/>
@@ -6590,7 +6590,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location/>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>縮放</translation>
     </message>
     <message>
         <location/>
@@ -6849,7 +6849,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location/>
         <source>Information about plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>關於外掛程式的資訊</translation>
     </message>
     <message>
         <location/>
@@ -6952,7 +6952,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location line="+81"/>
         <source>Message is too long.</source>
-        <translation type="unfinished"></translation>
+        <translation>訊息太長。</translation>
     </message>
     <message>
         <location filename="RichTextEditor.ui"/>
@@ -6962,7 +6962,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location/>
         <source>Source Text</source>
-        <translation type="unfinished"></translation>
+        <translation>原始碼</translation>
     </message>
     <message>
         <location/>
@@ -7071,7 +7071,7 @@ To upgrade these files to their latest versions, click the button below.</source
     <message>
         <location filename="ConnectDialog.cpp" line="-611"/>
         <source>Favorite</source>
-        <translation type="unfinished"></translation>
+        <translation>我的最愛</translation>
     </message>
     <message>
         <location line="+6"/>
