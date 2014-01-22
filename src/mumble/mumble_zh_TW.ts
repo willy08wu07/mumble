@@ -125,7 +125,7 @@ This value enables you to change the way mumble arranges the channels in the tre
     <message>
         <location/>
         <source>List of groups</source>
-        <translation type="unfinished"></translation>
+        <translation>群組清單</translation>
     </message>
     <message>
         <location/>
@@ -534,7 +534,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location/>
         <source>Device selection</source>
-        <translation type="unfinished"></translation>
+        <translation>裝置選取</translation>
     </message>
     <message>
         <location/>
@@ -614,7 +614,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location/>
         <source>Microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>麥克風</translation>
     </message>
     <message>
         <location/>
@@ -1340,7 +1340,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location/>
         <source>Minimum Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>最小音量</translation>
     </message>
     <message>
         <location/>
@@ -1727,7 +1727,7 @@ Contains the list of members inherited by the current channel. Uncheck &lt;i&gt;
     <message>
         <location/>
         <source>Device selection</source>
-        <translation type="unfinished"></translation>
+        <translation>裝置選取</translation>
     </message>
     <message>
         <location/>
@@ -3221,7 +3221,7 @@ Label of the server. This is what the server will be named like in your server l
     <message>
         <location line="+3"/>
         <source>Don&apos;t send report</source>
-        <translation type="unfinished"></translation>
+        <translation>不要傳送報告</translation>
     </message>
     <message>
         <location line="+24"/>
@@ -3471,7 +3471,7 @@ of the possible locations.</source>
     <message>
         <location/>
         <source>List of users</source>
-        <translation type="unfinished"></translation>
+        <translation>使用者清單</translation>
     </message>
     <message>
         <location/>
@@ -3545,7 +3545,7 @@ of the possible locations.</source>
     <message>
         <location line="-160"/>
         <source>Enable this device</source>
-        <translation type="unfinished"></translation>
+        <translation>啟用這個裝置</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -3555,7 +3555,7 @@ of the possible locations.</source>
     <message>
         <location filename="LCD.ui"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>表單</translation>
     </message>
     <message>
         <location/>
@@ -3580,7 +3580,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>大小</translation>
     </message>
     <message>
         <location/>
@@ -3590,7 +3590,7 @@ This field describes the size of an LCD device. The size is given either in pixe
     <message>
         <location/>
         <source>Views</source>
-        <translation type="unfinished"></translation>
+        <translation>檢視</translation>
     </message>
     <message>
         <location/>
@@ -4307,13 +4307,13 @@ This field describes the size of an LCD device. The size is given either in pixe
         <location line="+3"/>
         <source>Volume Up (+10%)</source>
         <comment>Global Shortcut</comment>
-        <translation>提高音量 (+10%)</translation>
+        <translation>增大音量 (+10%)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Volume Down (-10%)</source>
         <comment>Global Shortcut</comment>
-        <translation>降低音量 (-10%)</translation>
+        <translation>減小音量 (-10%)</translation>
     </message>
     <message>
         <location filename="MainWindow.ui"/>
@@ -4536,7 +4536,7 @@ This field describes the size of an LCD device. The size is given either in pixe
         <location line="+3"/>
         <source>&lt;center&gt;Type message to user &apos;%1&apos; here&lt;/center&gt;</source>
         <oldsource>Type message to user &apos;%1&apos; here</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;center&gt;在此輸入傳給「%1」使用者的訊息&lt;/center&gt;</translation>
     </message>
     <message>
         <location line="+105"/>
@@ -4661,7 +4661,7 @@ This field describes the size of an LCD device. The size is given either in pixe
         <location line="-1055"/>
         <location line="+19"/>
         <source>Enter reason</source>
-        <translation type="unfinished"></translation>
+        <translation>輸入原因</translation>
     </message>
     <message>
         <location line="+22"/>
@@ -4958,7 +4958,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location/>
         <source>Add new channel</source>
-        <translation type="unfinished"></translation>
+        <translation>新增頻道</translation>
     </message>
     <message>
         <location/>
@@ -5536,7 +5536,7 @@ Otherwise abort and check your certificate and username.</source>
     <message>
         <location line="+7"/>
         <source>Permission denied.</source>
-        <translation type="unfinished"></translation>
+        <translation>權限被拒。</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -5880,7 +5880,7 @@ Valid options are:
     <message>
         <location/>
         <source>&amp;Unlink Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>取消連結外掛程式(&amp;U)</translation>
     </message>
     <message>
         <location/>
@@ -5979,7 +5979,7 @@ Valid options are:
         <location/>
         <source>Use TCP compatibility mode</source>
         <oldsource>Use TCP compatability mode</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>使用 TCP 相容模式</translation>
     </message>
     <message>
         <location/>
@@ -6094,7 +6094,7 @@ Valid options are:
     <message>
         <location/>
         <source>Port number of the proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>代理的連接埠號碼</translation>
     </message>
     <message>
         <location/>
@@ -7666,7 +7666,7 @@ An access token is a text string, which can be used as a password for very simpl
     <message>
         <location filename="VersionCheck.cpp" line="+128"/>
         <source>Upgrade Mumble</source>
-        <translation type="unfinished"></translation>
+        <translation>升級 Mumble</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -7805,7 +7805,7 @@ An access token is a text string, which can be used as a password for very simpl
     <message>
         <location line="+9"/>
         <source>Issued by:</source>
-        <translation type="unfinished"></translation>
+        <translation>簽發者:</translation>
     </message>
     <message>
         <location line="+3"/>
